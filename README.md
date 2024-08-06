@@ -13,6 +13,16 @@ Check out my CV in [PDF](https://github.com/user-attachments/files/16503607/Ifeo
 
 This repository showcases my skills, shares projects, and tracks my progress in Data Analytics.
 
+## Table of Contents
+
+- [About](#About)
+- [Portfolio Projects](#Portfolio-Projects)
+    - [Marketing Campaign Analysis Project](#Marketing-Campaign-Analysis-Project)
+    - [Duns Store Data Analysis](#Duns-Store-Data-Analysis)
+- [Education](#Education)
+- [Certificates](#Certificates)
+- [Contact](#Contact)
+
 ## Portfolio Projects
 In this section, I will provide a brief overview of data analytics projects I have done, detailing the technology used to address various cases and insights.
 
@@ -59,7 +69,6 @@ Here is the list of Certicate I have so far:
 - Accounting and Finance (Level 7 Diploma, CPD 2022)
 - Msc in International Business with Data Analytics (2024)
 - Data Analytic Course (Digitaley Drive, 2024)
-
 
 ## Contacts
 - LinkedIn: [@IfeoluwaAriyibi](https://www.linkedin.com/in/ifeoluwa-ariyibi-840a251a8/))
