@@ -19,6 +19,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 - [Portfolio Projects](#Portfolio-Projects)
     - [Marketing Campaign Analysis Project](#Marketing-Campaign-Analysis-Project)
     - [Duns Store Data Analysis](#Duns-Store-Data-Analysis)
+    - [Mexico Restaurant Rating Analysis](#Mexico-Restaurant-Rating-Analysis)
 - [Education](#Education)
 - [Certificates](#Certificates)
 - [Contact](#Contact)
@@ -49,6 +50,22 @@ In this section, I will provide a brief overview of data analytics projects I ha
 **Technology:** Excel, DAX, and PowerBI
 
 **Code:** [Duns Store Data Analysis](https://github.com/Ifeoluwa-Ariyibi/Duns-Store)
+
+### Mexico Restaurant Rating Analysis
+
+**Description:** This project analyzes restaurant ratings and customer survey data from various restaurants in Mexico. The dataset was collected in 2012 through a customer survey, providing detailed insights into restaurant characteristics, cuisines, consumer demographics, and consumer preferences.
+
+**Aim/Objective:**
+    - Question 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
+    - Question 2. What are the consumer demographics? Does this indicate a bias in the data sample?
+    - Question 3. Are there any demand & supply gaps that you can exploit in the market?
+    - Question 4. If you were to invest in a restaurant, which characteristics would you be looking for?
+
+**Skills:** Data Analysis, Business Intelligence, Data Visualization, Statistical Analysis, Data Management, and DAX Function & M Codes
+
+**Technology:** Excel, DAX, and PowerBI
+
+**Code:** [Mexico Restaurant Rating Analysis](https://github.com/Ifeoluwa-Ariyibi/Mexico-Restaurant-Rating-Analysis)
 
 ## Education
 Ulster University, Birmingham, UK. 
