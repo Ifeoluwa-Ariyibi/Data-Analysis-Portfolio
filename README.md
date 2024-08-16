@@ -21,7 +21,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
     - [Duns Store Data Analysis](#Duns-Store-Data-Analysis)
     - [Mexico Restaurant Rating Analysis](#Mexico-Restaurant-Rating-Analysis)
     - [Pierce County Employee Survey Analysis]()
-    - [Global Superstore Performance Analysis]()
+    - [Global Superstore Performance Analysis](https://github.com/Ifeoluwa-Ariyibi/Global-Superstore-Performance-Analysis/blob/main/README.md)
 - [Education](#Education)
 - [Certificates](#Certificates)
 - [Contact](#Contact)
@@ -115,7 +115,7 @@ In this section, I will provide a brief overview of data analytics projects I ha
 
 **Technology:** Power Query, Excel, and Power BI.
 
-**Code:**
+**Code:** [Global Superstore Performance Analysis](https://github.com/Ifeoluwa-Ariyibi/Global-Superstore-Performance-Analysis/blob/main/README.md)
 
 ## Education
 Ulster University, Birmingham, UK. 
